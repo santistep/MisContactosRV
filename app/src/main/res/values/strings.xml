@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Santiago</string>
+    <string name="telefono">88889999</string>
+    <string name="email">sancode@gmail.com</string>
+    <string name="parametro_nombre">nombre</string>
+    <string name="parametro_telefono">telefono</string>
+    <string name="parametro_email">email</string>
+    <string name="cv_nombre">Emma</string>
+    <string name="cv_telefono">099789456</string>
+</resources>
